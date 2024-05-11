@@ -14,7 +14,8 @@ def missing_number(sequence):
 missing_number([1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18,19,20])
 
 
-#********question- 2 and 5 dublicates numbers
+#********question- 2 and 5 dublicates numbers changes add 
+
 def dupicate(squence):
     dupicate_numbbers=[]
     unique_value=set()
